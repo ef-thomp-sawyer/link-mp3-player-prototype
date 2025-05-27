@@ -2,7 +2,7 @@
 version borrador de link-mp3-player
 
 
-Idea
+Idea (basic html player)
 ```
      <audio controls>
             <source src="https://samplelib.com/lib/preview/mp3/sample-3s.mp3" type="audio/mp3">
