@@ -1,6 +1,7 @@
 # discord link-mp3-player-prototype (en node.js)
 version borrador de link-mp3-player
 
+![logo](https://i.ibb.co/prvWMmT7/OIG3-v9.jpg)
 
 Idea (basic html player)
 ```
