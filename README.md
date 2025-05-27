@@ -1,14 +1,16 @@
 # discord link-mp3-player-prototype (en node.js)
 version borrador de link-mp3-player
 
-<img src="https://i.ibb.co/prvWMmT7/OIG3-v9.jpg" width="145" height="145" alt="logo">
-
 Idea (basic html player)
 ```
      <audio controls>
             <source src="https://samplelib.com/lib/preview/mp3/sample-3s.mp3" type="audio/mp3">
         </audio>
 ```
+
+<img src="https://i.ibb.co/prvWMmT7/OIG3-v9.jpg" width="145" height="145" alt="logo">
+
+
 
 ```
 discord-mp3-bot/
