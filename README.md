@@ -1,6 +1,17 @@
 # link-mp3-player-prototype
 version borrador de link-mp3-player
 
+```
+discord-mp3-bot/
+├── .env
+├── package.json
+├── index.js
+└── commands/
+    ├── startbot.js
+    ├── detener.js
+    └── link.js
+```
+
 server ::: beta version
 
 https://discord.com/oauth2/authorize?client_id=1376046722081362022&permissions=8&integration_type=0&scope=bot
